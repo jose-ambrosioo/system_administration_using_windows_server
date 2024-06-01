@@ -1,8 +1,7 @@
 # system_administration_using_windows_server
-(CISCO ROUTERS AND SWITCHES | PUTTY | MICROSFT VISIO | DATA CENTER)
+(WINDOWS SERVER | WINDOWS | VMWARE WORKSTATION | VIRTUALIZATION)
 
-Designed and implemented a company's network project.
+Implemented a scalable network infrastructure tailored to the company's business volume, ensuring flexibility and efficiency.
 
-Equipment: Cisco routers and switches, servers, and computers.
+Configured the following services: AD DS, DNS, DFS, DHCP, FTP, IIS, Storage File Server, Failover Cluster, O and P Drive Server.
 
-Configured the following services in Cisco routers and switches: GRE VPN, OSPF, hostnames, encrypted password, interfaces, clock rate, login, spanning tree, VLANs, ACL, GRE Tunnel, NAT, DNS, PPPoE, and ISP2.
