@@ -26,5 +26,7 @@ Configured services:
 - Configured company websites available via IIS.
 - Configured the company's FTP with access restricted to members of a group.
 
+Security:
+- Infrastructure security is managed in the OU via GPO for computers and users.
 
 **AD DS**
