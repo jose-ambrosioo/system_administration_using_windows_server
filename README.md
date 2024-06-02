@@ -29,4 +29,5 @@ Configured services:
 Security:
 - Infrastructure security is managed in the OU via GPO for computers and users.
 
-**AD DS**
+**AD DS Configuration**
+<br>![01](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/ee4efad2-aed0-4f23-8802-5c70a60b0722)
