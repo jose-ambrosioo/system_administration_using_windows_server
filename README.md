@@ -1,7 +1,7 @@
 # system_administration_using_windows_server
 (WINDOWS SERVER | WINDOWS | POWERSHELL | VMWARE WORKSTATION | VIRTUALIZATION)
 
-Implemented a scalable network infrastructure tailored to the company's business volume, ensuring flexibility and efficiency, and ensuring that branch users had the same working conditions and performance as head office users.
+Implemented a scalable network infrastructure tailored to a company's business volume, ensuring flexibility and efficiency, and ensuring that branch users had the same working conditions and performance as head office users.
 
 Configured the following services: AD DS, DNS, DFS, DHCP, FTP, IIS, Storage File Server, Failover Cluster, O and P Drive Server.
 
