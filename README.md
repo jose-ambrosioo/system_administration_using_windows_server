@@ -53,8 +53,6 @@ Security:
 <br>![20](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/c7bd09cf-2d69-4e27-a5d5-1680195a0e69)
 <br>![21](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/d2f3930f-3a91-4ede-909f-99acf63886c9)
 <br>![22](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/3ffb59b8-a0f3-456a-98e3-a68fe6f9c6dd)
-<br>![23](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/6fd35d20-892b-4be2-b1eb-24fbe996a4c5)
-<br>![24](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/6f869b27-277e-4313-a79c-4cf3a60175e1)
 <br>![25](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/15ea26c6-124a-400a-ae66-7e1611bba867)
 <br>![26](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/3eefe49b-7166-47b8-87d6-29c3019112c5)
 <br>![27](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/c6353c1e-b9b2-474a-81ab-54f60397a0f8)
