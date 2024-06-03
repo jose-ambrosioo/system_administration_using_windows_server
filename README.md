@@ -30,6 +30,7 @@ Security:
 - Infrastructure security is managed in the OU via GPO for computers and users.
 
 **AD DS Configuration**
+<br>![00](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/976ae4e3-cfda-4538-9cea-66d943e53438)
 <br>![01](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/ee4efad2-aed0-4f23-8802-5c70a60b0722)
 <br>![02](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/4b52def1-a981-4445-8e4c-ab83c7180a96)
 <br>![03](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/32507d53-8b08-4a56-aa8a-b4b078f557f6)
@@ -57,6 +58,8 @@ Security:
 <br>![25](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/15ea26c6-124a-400a-ae66-7e1611bba867)
 <br>![26](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/3eefe49b-7166-47b8-87d6-29c3019112c5)
 <br>![27](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/c6353c1e-b9b2-474a-81ab-54f60397a0f8)
+
+**DNS Configuration**
 <br>![28](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/75a8de69-d432-4447-bf15-ba3e1e173559)
 <br>![29](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/bbd7877c-5216-498a-a343-3163d3097e4a)
 <br>![30](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/cebf5209-77a6-4ba0-b460-05ed422e341f)
@@ -85,6 +88,8 @@ Security:
 <br>![53](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/ff4f1b6e-1e2c-4eab-9b62-3da4ebe566db)
 <br>![54](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/ea85dbfa-fa53-4a2b-a8b5-6a48886421d8)
 <br>![55](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/1588ae2d-7df2-4f22-ba6b-56c3db49bed7)
+
+**DHCP Configuration**
 <br>![56](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/f44bc771-297f-47d2-93f2-7acdd591ccb5)
 <br>![57](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/34d8b67b-d9c0-4acc-af54-5fc8478c5e76)
 <br>![58](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/14109148-c310-4c4f-8d28-026e41433946)
@@ -110,6 +115,8 @@ Security:
 <br>![78](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/b8881808-09d9-4eec-8a18-8a43e14abe05)
 <br>![79](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/09efc95b-b4b7-4305-aec8-8070d5eacfe6)
 <br>![80](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/ff1ba62a-ea39-4ffa-be85-4c80ce66cf5a)
+
+**IIS Configuration**
 <br>![81](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/445ac488-7253-40e6-bc03-94c20e56b579)
 <br>![82](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/a2a3709d-bb44-45c4-9888-030e3e6d2769)
 <br>![83](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/8dac69b7-a978-478d-8ac2-c890cd1e0981)
@@ -134,6 +141,8 @@ Security:
 <br>![102](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/e10d0fa1-82e7-43bc-b868-e4118c3e49d9)
 <br>![103](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/37e426a8-c818-4b7f-b98c-f8694bf6cf2f)
 <br>![104](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/903d07d9-e500-47e6-9b19-fb6bff944ef4)
+
+**FTP Configuration**
 <br>![105](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/d3ebd8a6-9f85-4e84-8058-4ba966ba47c6)
 <br>![106](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/236663df-8343-442b-b471-3e8b65d50dc4)
 <br>![107](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/bf8f7e31-c2ba-45c3-b5d6-659c22c1af9c)
@@ -157,6 +166,8 @@ Security:
 <br>![125](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/f327ec12-82e6-44a7-803e-3016aa703ba4)
 <br>![126](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/49dde0ce-d52f-4116-b4e1-4d8ecf1e1302)
 <br>![127](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/8675e457-c886-43b4-bd06-16a2bdae6322)
+
+**File Server Configuration**
 <br>![128](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/633b15cb-7be0-4672-9058-896bcae0dc62)
 <br>![129](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/acc5bd78-21ca-46a3-89b5-6ce0d83e3981)
 <br>![130](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/3b2868f1-fa07-4788-8117-12c8cbd9cbcb)
@@ -175,6 +186,8 @@ Security:
 <br>![143](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/8e19fa45-1b58-40fd-8e16-5388b2dcc6c7)
 <br>![144](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/c8dd7f79-6d17-4f92-9e77-94a21f3e7f1e)
 <br>![145](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/be893713-1498-41bf-aac9-11c6095a5eaf)
+
+**DFS Configuration**
 <br>![146](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/e5e1b477-a1e9-44ba-8afd-bb2f893f496e)
 <br>![147](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/a481242c-d64c-4c62-bf27-ee1d8749f01b)
 <br>![148](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/95ed0bef-8713-4fce-84d7-3891af7f3156)
@@ -187,6 +200,8 @@ Security:
 <br>![155](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/be931a07-8612-4602-9c49-6ce781091b5c)
 <br>![156](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/405e91dc-1273-4d75-919e-2517db477ea1)
 <br>![157](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/bcb81748-6d66-4607-951e-4b2be564b0ca)
+
+**Failover Cluster Configuration**
 <br>![158](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/29fe01ed-27ba-461a-a031-31e49ff95742)
 <br>![159](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/7a2afaf3-5e81-44ca-88fd-6e0524dba27c)
 <br>![160](https://github.com/jose-ambrosioo/system_administration_using_windows_server/assets/59221796/1afd3322-ed7a-422e-8fd4-15758e23d92c)
